@@ -155,3 +155,28 @@ HELP_16 = """
 
 /Privacy : Display the privacy statement for Sarcastic Bot 
 """
+
+HELP_17 = """
+🛠️ ʜᴇʟᴘ sᴇᴄᴛɪᴏɴ:
+
+⬤ /start - 🤖 To start the bot  
+⬤ /guess - 🕵️ To guess a character (works only in groups)  
+⬤ /fav - ❤️ To add a favorite character  
+⬤ /trade - 🔄 To trade characters  
+⬤ /gift - 🎁 To gift a character from your collection to another user (works only in groups)  
+⬤ /collection - 📚 To view your collection  
+⬤ /topgroups - 🌐 To view top groups with the most guesses  
+⬤ /top - 🏆 To view top users  
+⬤ /ctop - 🥇 To view top users in your chat  
+⬤ /changetime - ⏱️ To change the appearance time of characters (works only in groups)  
+⬤ /upscale - 🔍 To upscale an image  
+⬤ /pp - 🌟 To search images on Google  
+⬤ /harem - 🪷 To view your collection  
+⬤ /balance - 💰 To check your balance  
+⬤ /hmode - 🎭 To filter character collections  
+⬤ /getsticker - 🖼️ To download your favorite sticker  
+⬤ /insta - 📸 To download Instagram reels  
+⬤ /myplant - 🌱 To create your plant  
+⬤ /claim - 🪙 To claim plant coins
+⬤ /request - 😍 add your favorite character
+    """
