@@ -11,7 +11,7 @@ API_ID = 27758016
 API_HASH = "8d34cfffe27ab461eabbf0091b1a27df"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "8154928303:AAHOdHIV_PAMiXzLRhmILYPrw7RSw3cdQi8"
+BOT_TOKEN = "7726309603:AAH3GDZ6XpDQqNICbJ353Z6hCycnliutD8s"
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "mongodb+srv://I-LOVE-PDF-BOT:I-LOVE-PDF-BOT@cluster0.c51o3a9.mongodb.net/?retryWrites=true&w=majority"
@@ -22,7 +22,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60000))
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002009280180"))
 
 # Get this value from @MissRose_Bot on Telegram by /id
-OWNER_ID = 5458968679
+OWNER_ID = 7078181502
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Architect04")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Team_Supporty")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PiratesBotRepo")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/PiratesBotRepo")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -65,8 +65,8 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "BQFa2kUADS4o78kwnNirD6NoEbC_CgMDpoo0ZAkKoUJeOk1ZXbUt3Plsh-prx1g1EEoXqkb6b1V5NOy19poDKT2dO22fslhE0YwD0OZ-clgAplyIp_g-k0mNcC5vkX26sEStlqmOqx4Af13olyHF2hhWXKHRPpWUcjyYV1rQjBC3id582Bgv3DeIjZM1TN1lxQ7FZCs1kaK9FqPWQVr0ImnVM2ygB3BWEjlvMpUasDm5yucTIv_qholziaiMO5McbPP0nMNWD6PwgklOYGXRHs6qL1AbR5Z1Rp5LBxQ75JktXbygvh1RfQz8ObcuMXJMWSSj0-keALf2vwOFI1srt3Hmop3WiwAAAAGJc0pjAA"
-STRING2 = getenv("STRING_SESSION2", None)
+STRING1 = getenv("STRING_SESSION2", "BQFa2kUAIloqFtxQACb-PK-r00AeghK4nSs4WVIkOegrNaEv4CDlsEHVKxWhQxqu5w0xr_CyTo3yZzg56eETG1VcMk_aXiBA9c5KmxomGvVSfFE5LHDw-ykuoyxhjxiNqpK7jViMdTbTsQVCQI5yzN9LJRJM_zO9kRKyQ9JXJfzZFUbpaJYNDSGUudu9z_Z5Mlxd7JHfT-oV4afPhQgWZI4NuZDmIQFqi7lO6Z2qB8rdWjYvY2fGKEScbB7RAlolADnouiAGrshBtHXjnXlflX7AgaveOY9x17MF50W5ZJviuG6V9IlQJOIJG9QZRrIqOZ-EdsNIp_Bm2ygFEZO7eMHINnFJKgAAAAHbOPYdAA")
+STRING2 = getenv("STRING_SESSION2", "BQFa2kUANF5ZDS_GPzpyQS7oH7kKsUlOsGww9P9cLwaA9Mga9KSQaThILLrkP0iuWRwO4tsTlNxfUi1En4L7mpAimeugDmZ7qWP-5_jQ8fzHVxH1wmO1ueqGmF30O3KrgBiUpyft9kdOeTi_j2oiVn2Xg0pp0Qvy-964tEruJqGINltO3V_5xdJWSLOIhQH4C5hN-9l1yTI5TN8BWzHNvAz3SBLoknY-nmD7jC2VW7lHHmJim0xpOkXLxjiEb-_Y9AxJoRA3zNoJ2M5kGf_aHRTgmebPpHuWtxtOiCPWdTe6l2ZJdGiWW3RkcLb9rnfdnWDssjCq73VuJCOEfLyLIXDe4LK6JwAAAAHMF7cLAA")
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
